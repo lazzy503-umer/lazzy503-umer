@@ -1,3 +1,4 @@
+![logo](https://github.com/lazzy503-umer/lazzy503-umer/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Umer Farooq (lazzy503)</h1>
 <h3 align="center">A passionate Cyber Security Consultant & Researcher | .Net Developer | Creative and people-oriented Computer Science Student and a Cyber Consultant & Researcher with extensive project management experience</h3>
 
