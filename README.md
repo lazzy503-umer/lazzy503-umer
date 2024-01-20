@@ -4,7 +4,19 @@
 
 ###
 
+<div align="center">
+  <img height="30" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
+###
+
 <h2 align="center">IT professional with 7+ years of progressive experience as System Administrator, Cyber Security Trainer, Developer. Committed to staying current innovation in technology and computer science.</h2>
+
+###
+
+<div align="center">
+  <img height="30" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
 
 ###
 
@@ -73,10 +85,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
 </div>
 
 ###
@@ -92,7 +102,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
 </div>
 
 ###
